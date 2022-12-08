@@ -1,1 +1,369 @@
-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
+#!/usr/bin/env bash
+#
+# Description: A Bench Script by Teddysun
+#
+# Copyright (C) 2015 - 2022 Teddysun <i@teddysun.com>
+# Thanks: LookBack <admin@dwhd.org>
+# URL: https://teddysun.com/444.html
+# https://github.com/teddysun/across/blob/master/bench.sh
+#
+trap _exit INT QUIT TERM
+
+_red() {
+    printf '\033[0;31;31m%b\033[0m' "$1"
+}
+
+_green() {
+    printf '\033[0;31;32m%b\033[0m' "$1"
+}
+
+_yellow() {
+    printf '\033[0;31;33m%b\033[0m' "$1"
+}
+
+_blue() {
+    printf '\033[0;31;36m%b\033[0m' "$1"
+}
+
+_exists() {
+    local cmd="$1"
+    if eval type type > /dev/null 2>&1; then
+        eval type "$cmd" > /dev/null 2>&1
+    elif command > /dev/null 2>&1; then
+        command -v "$cmd" > /dev/null 2>&1
+    else
+        which "$cmd" > /dev/null 2>&1
+    fi
+    local rt=$?
+    return ${rt}
+}
+
+_exit() {
+    _red "\nThe script has been terminated.\n"
+    # clean up
+    rm -fr speedtest.tgz speedtest-cli benchtest_*
+    exit 1
+}
+
+get_opsy() {
+    [ -f /etc/redhat-release ] && awk '{print $0}' /etc/redhat-release && return
+    [ -f /etc/os-release ] && awk -F'[= "]' '/PRETTY_NAME/{print $3,$4,$5}' /etc/os-release && return
+    [ -f /etc/lsb-release ] && awk -F'[="]+' '/DESCRIPTION/{print $2}' /etc/lsb-release && return
+}
+
+next() {
+    printf "%-70s\n" "-" | sed 's/\s/-/g'
+}
+
+speed_test() {
+    local nodeName="$2"
+    [ -z "$1" ] && ./speedtest-cli/speedtest --progress=no --accept-license --accept-gdpr > ./speedtest-cli/speedtest.log 2>&1 || \
+    ./speedtest-cli/speedtest --progress=no --server-id=$1 --accept-license --accept-gdpr > ./speedtest-cli/speedtest.log 2>&1
+    if [ $? -eq 0 ]; then
+        local dl_speed=$(awk '/Download/{print $3" "$4}' ./speedtest-cli/speedtest.log)
+        local up_speed=$(awk '/Upload/{print $3" "$4}' ./speedtest-cli/speedtest.log)
+        local latency=$(awk '/Latency/{print $2" "$3}' ./speedtest-cli/speedtest.log)
+        if [[ -n "${dl_speed}" && -n "${up_speed}" && -n "${latency}" ]]; then
+            printf "\033[0;33m%-18s\033[0;32m%-18s\033[0;32m%-18s\033[0;36m%-12s\033[0m\n" " ${nodeName}" "${up_speed}" "${dl_speed}" "${latency}"
+        fi
+    fi
+}
+
+speed() {
+    speed_test '' 'Speedtest.net'
+    speed_test '7582' 'Tsel-Jkt, ID'
+    speed_test '1371' 'Tsel-Btm, ID'
+    speed_test '2233' 'Tsel-Sby, ID'
+    speed_test '37744' 'Tsel-Telin, SG'
+    speed_test '13039' 'Indosat-Jkt, ID'
+    speed_test '39334' 'Indosat-Mdn, ID'
+    speed_test '36700' 'Indosat-Sby, ID'
+    speed_test '5168' 'Indosat, SG'
+    speed_test '41805' 'XL, ID'
+    speed_test '41806' 'XL, SG'
+    speed_test '7311' 'M1 Limited, SG'
+    speed_test '28922' 'Amsterdam, NL'
+    speed_test '21569' 'Tokyo, JP'
+}
+
+io_test() {
+    (LANG=C dd if=/dev/zero of=benchtest_$$ bs=512k count=$1 conv=fdatasync && rm -f benchtest_$$ ) 2>&1 | awk -F, '{io=$NF} END { print io}' | sed 's/^[ \t]*//;s/[ \t]*$//'
+}
+
+calc_size() {
+    local raw=$1
+    local total_size=0
+    local num=1
+    local unit="KB"
+    if ! [[ ${raw} =~ ^[0-9]+$ ]] ; then
+        echo ""
+        return
+    fi
+    if [ "${raw}" -ge 1073741824 ]; then
+        num=1073741824
+        unit="TB"
+    elif [ "${raw}" -ge 1048576 ]; then
+        num=1048576
+        unit="GB"
+    elif [ "${raw}" -ge 1024 ]; then
+        num=1024
+        unit="MB"
+    elif [ "${raw}" -eq 0 ]; then
+        echo "${total_size}"
+        return
+    fi
+    total_size=$( awk 'BEGIN{printf "%.1f", '$raw' / '$num'}' )
+    echo "${total_size} ${unit}"
+}
+
+check_virt(){
+    _exists "dmesg" && virtualx="$(dmesg 2>/dev/null)"
+    if _exists "dmidecode"; then
+        sys_manu="$(dmidecode -s system-manufacturer 2>/dev/null)"
+        sys_product="$(dmidecode -s system-product-name 2>/dev/null)"
+        sys_ver="$(dmidecode -s system-version 2>/dev/null)"
+    else
+        sys_manu=""
+        sys_product=""
+        sys_ver=""
+    fi
+    if   grep -qa docker /proc/1/cgroup; then
+        virt="Docker"
+    elif grep -qa lxc /proc/1/cgroup; then
+        virt="LXC"
+    elif grep -qa container=lxc /proc/1/environ; then
+        virt="LXC"
+    elif [[ -f /proc/user_beancounters ]]; then
+        virt="OpenVZ"
+    elif [[ "${virtualx}" == *kvm-clock* ]]; then
+        virt="KVM"
+    elif [[ "${sys_product}" == *KVM* ]]; then
+        virt="KVM"
+    elif [[ "${cname}" == *KVM* ]]; then
+        virt="KVM"
+    elif [[ "${cname}" == *QEMU* ]]; then
+        virt="KVM"
+    elif [[ "${virtualx}" == *"VMware Virtual Platform"* ]]; then
+        virt="VMware"
+    elif [[ "${sys_product}" == *"VMware Virtual Platform"* ]]; then
+        virt="VMware"
+    elif [[ "${virtualx}" == *"Parallels Software International"* ]]; then
+        virt="Parallels"
+    elif [[ "${virtualx}" == *VirtualBox* ]]; then
+        virt="VirtualBox"
+    elif [[ -e /proc/xen ]]; then
+        if grep -q "control_d" "/proc/xen/capabilities" 2>/dev/null; then
+            virt="Xen-Dom0"
+        else
+            virt="Xen-DomU"
+        fi
+    elif [ -f "/sys/hypervisor/type" ] && grep -q "xen" "/sys/hypervisor/type"; then
+        virt="Xen"
+    elif [[ "${sys_manu}" == *"Microsoft Corporation"* ]]; then
+        if [[ "${sys_product}" == *"Virtual Machine"* ]]; then
+            if [[ "${sys_ver}" == *"7.0"* || "${sys_ver}" == *"Hyper-V" ]]; then
+                virt="Hyper-V"
+            else
+                virt="Microsoft Virtual Machine"
+            fi
+        fi
+    else
+        virt="Dedicated"
+    fi
+}
+
+ipv4_info() {
+    local org="$(wget -q -T10 -O- ipinfo.io/org)"
+    local city="$(wget -q -T10 -O- ipinfo.io/city)"
+    local country="$(wget -q -T10 -O- ipinfo.io/country)"
+    local region="$(wget -q -T10 -O- ipinfo.io/region)"
+    if [[ -n "$org" ]]; then
+        echo " Organization       : $(_blue "$org")"
+    fi
+    if [[ -n "$city" && -n "country" ]]; then
+        echo " Location           : $(_blue "$city / $country")"
+    fi
+    if [[ -n "$region" ]]; then
+        echo " Region             : $(_yellow "$region")"
+    fi
+    if [[ -z "$org" ]]; then
+        echo " Region             : $(_red "No ISP detected")"
+    fi
+}
+
+install_speedtest() {
+    if [ ! -e "./speedtest-cli/speedtest" ]; then
+        sys_bit=""
+        local sysarch="$(uname -m)"
+        if [ "${sysarch}" = "unknown" ] || [ "${sysarch}" = "" ]; then
+            local sysarch="$(arch)"
+        fi
+        if [ "${sysarch}" = "x86_64" ]; then
+            sys_bit="x86_64"
+        fi
+        if [ "${sysarch}" = "i386" ] || [ "${sysarch}" = "i686" ]; then
+            sys_bit="i386"
+        fi
+        if [ "${sysarch}" = "armv8" ] || [ "${sysarch}" = "armv8l" ] || [ "${sysarch}" = "aarch64" ] || [ "${sysarch}" = "arm64" ]; then
+            sys_bit="aarch64"
+        fi
+        if [ "${sysarch}" = "armv7" ] || [ "${sysarch}" = "armv7l" ]; then
+            sys_bit="armhf"
+        fi
+        if [ "${sysarch}" = "armv6" ]; then
+            sys_bit="armel"
+        fi
+        [ -z "${sys_bit}" ] && _red "Error: Unsupported system architecture (${sysarch}).\n" && exit 1
+        url1="https://install.speedtest.net/app/cli/ookla-speedtest-1.1.1-linux-${sys_bit}.tgz"
+        url2="https://dl.lamp.sh/files/ookla-speedtest-1.1.1-linux-${sys_bit}.tgz"
+        wget --no-check-certificate -q -T10 -O speedtest.tgz ${url1}
+        if [ $? -ne 0 ]; then
+            wget --no-check-certificate -q -T10 -O speedtest.tgz ${url2}
+            [ $? -ne 0 ] && _red "Error: Failed to download speedtest-cli.\n" && exit 1
+        fi
+        mkdir -p speedtest-cli && tar zxf speedtest.tgz -C ./speedtest-cli && chmod +x ./speedtest-cli/speedtest
+        rm -f speedtest.tgz
+    fi
+    printf "%-18s%-18s%-20s%-12s\n" " Node Name"   "Upload Speed"   "Download Speed"   "Latency"
+}
+
+print_intro() {
+    echo "-------------------- A Bench.sh Script By Teddysun -------------------"
+    echo "--------------------------MOD BY @btwgc-------------------------"
+    echo "----------------------------------------------------------------------"
+    echo " Version            : $(_green 6.9)"
+}
+
+# Get System information
+get_system_info() {
+    cname=$( awk -F: '/model name/ {name=$2} END {print name}' /proc/cpuinfo | sed 's/^[ \t]*//;s/[ \t]*$//' )
+    cores=$( awk -F: '/processor/ {core++} END {print core}' /proc/cpuinfo )
+    freq=$( awk -F'[ :]' '/cpu MHz/ {print $4;exit}' /proc/cpuinfo )
+    ccache=$( awk -F: '/cache size/ {cache=$2} END {print cache}' /proc/cpuinfo | sed 's/^[ \t]*//;s/[ \t]*$//' )
+    cpu_aes=$( grep -i 'aes' /proc/cpuinfo )
+    cpu_virt=$( grep -Ei 'vmx|svm' /proc/cpuinfo )
+    tram=$( LANG=C; free | awk '/Mem/ {print $2}' )
+    tram=$( calc_size $tram )
+    uram=$( LANG=C; free | awk '/Mem/ {print $3}' )
+    uram=$( calc_size $uram )
+    swap=$( LANG=C; free | awk '/Swap/ {print $2}' )
+    swap=$( calc_size $swap )
+    uswap=$( LANG=C; free | awk '/Swap/ {print $3}' )
+    uswap=$( calc_size $uswap )
+    up=$( awk '{a=$1/86400;b=($1%86400)/3600;c=($1%3600)/60} {printf("%d days, %d hour %d min\n",a,b,c)}' /proc/uptime )
+    if _exists "w"; then
+        load=$( LANG=C; w | head -1 | awk -F'load average:' '{print $2}' | sed 's/^[ \t]*//;s/[ \t]*$//' )
+    elif _exists "uptime"; then
+        load=$( LANG=C; uptime | head -1 | awk -F'load average:' '{print $2}' | sed 's/^[ \t]*//;s/[ \t]*$//' )
+    fi
+    opsy=$( get_opsy )
+    arch=$( uname -m )
+    if _exists "getconf"; then
+        lbit=$( getconf LONG_BIT )
+    else
+        echo ${arch} | grep -q "64" && lbit="64" || lbit="32"
+    fi
+    kern=$( uname -r )
+    disk_total_size=$( LANG=C; df -t simfs -t ext2 -t ext3 -t ext4 -t btrfs -t xfs -t vfat -t ntfs -t swap --total 2>/dev/null | grep total | awk '{ print $2 }' )
+    disk_total_size=$( calc_size $disk_total_size )
+    disk_used_size=$( LANG=C; df -t simfs -t ext2 -t ext3 -t ext4 -t btrfs -t xfs -t vfat -t ntfs -t swap --total 2>/dev/null | grep total | awk '{ print $3 }' )
+    disk_used_size=$( calc_size $disk_used_size )
+    tcpctrl=$( sysctl net.ipv4.tcp_congestion_control | awk -F ' ' '{print $3}' )
+}
+# Print System information
+print_system_info() {
+    if [ -n "$cname" ]; then
+        echo " CPU Model          : $(_blue "$cname")"
+    else
+        echo " CPU Model          : $(_blue "CPU model not detected")"
+    fi
+    if [ -n "$freq" ]; then
+        echo " CPU Cores          : $(_blue "$cores @ $freq MHz")"
+    else
+        echo " CPU Cores          : $(_blue "$cores")"
+    fi
+    if [ -n "$ccache" ]; then
+        echo " CPU Cache          : $(_blue "$ccache")"
+    fi
+    if [ -n "$cpu_aes" ]; then
+        echo " AES-NI             : $(_green "Enabled")"
+    else
+        echo " AES-NI             : $(_red "Disabled")"
+    fi
+    if [ -n "$cpu_virt" ]; then
+        echo " VM-x/AMD-V         : $(_green "Enabled")"
+    else
+        echo " VM-x/AMD-V         : $(_red "Disabled")"
+    fi
+    echo " Total Disk         : $(_yellow "$disk_total_size") $(_blue "($disk_used_size Used)")"
+    echo " Total Mem          : $(_yellow "$tram") $(_blue "($uram Used)")"
+    if [ "$swap" != "0" ]; then
+        echo " Total Swap         : $(_blue "$swap ($uswap Used)")"
+    fi
+    echo " System uptime      : $(_blue "$up")"
+    echo " Load average       : $(_blue "$load")"
+    echo " OS                 : $(_blue "$opsy")"
+    echo " Arch               : $(_blue "$arch ($lbit Bit)")"
+    echo " Kernel             : $(_blue "$kern")"
+    echo " TCP CC             : $(_yellow "$tcpctrl")"
+    echo " Virtualization     : $(_blue "$virt")"
+}
+
+print_io_test() {
+    freespace=$( df -m . | awk 'NR==2 {print $4}' )
+    if [ -z "${freespace}" ]; then
+        freespace=$( df -m . | awk 'NR==3 {print $3}' )
+    fi
+    if [ ${freespace} -gt 1024 ]; then
+        writemb=2048
+        io1=$( io_test ${writemb} )
+        echo " I/O Speed(1st run) : $(_yellow "$io1")"
+        io2=$( io_test ${writemb} )
+        echo " I/O Speed(2nd run) : $(_yellow "$io2")"
+        io3=$( io_test ${writemb} )
+        echo " I/O Speed(3rd run) : $(_yellow "$io3")"
+        ioraw1=$( echo $io1 | awk 'NR==1 {print $1}' )
+        [ "`echo $io1 | awk 'NR==1 {print $2}'`" == "GB/s" ] && ioraw1=$( awk 'BEGIN{print '$ioraw1' * 1024}' )
+        ioraw2=$( echo $io2 | awk 'NR==1 {print $1}' )
+        [ "`echo $io2 | awk 'NR==1 {print $2}'`" == "GB/s" ] && ioraw2=$( awk 'BEGIN{print '$ioraw2' * 1024}' )
+        ioraw3=$( echo $io3 | awk 'NR==1 {print $1}' )
+        [ "`echo $io3 | awk 'NR==1 {print $2}'`" == "GB/s" ] && ioraw3=$( awk 'BEGIN{print '$ioraw3' * 1024}' )
+        ioall=$( awk 'BEGIN{print '$ioraw1' + '$ioraw2' + '$ioraw3'}' )
+        ioavg=$( awk 'BEGIN{printf "%.1f", '$ioall' / 3}' )
+        echo " I/O Speed(average) : $(_yellow "$ioavg MB/s")"
+    else
+        echo " $(_red "Not enough space for I/O Speed test!")"
+    fi
+}
+
+print_end_time() {
+    end_time=$(date +%s)
+    time=$(( ${end_time} - ${start_time} ))
+    if [ ${time} -gt 60 ]; then
+        min=$(expr $time / 60)
+        sec=$(expr $time % 60)
+        echo " Finished in        : ${min} min ${sec} sec"
+    else
+        echo " Finished in        : ${time} sec"
+    fi
+    date_time=$(date '+%Y-%m-%d %H:%M:%S %Z')
+    echo " Timestamp          : $date_time"
+}
+
+! _exists "wget" && _red "Error: wget command not found.\n" && exit 1
+! _exists "free" && _red "Error: free command not found.\n" && exit 1
+start_time=$(date +%s)
+get_system_info
+check_virt
+clear
+print_intro
+next
+print_system_info
+ipv4_info
+next
+print_io_test
+next
+install_speedtest && speed && rm -fr speedtest-cli
+next
+print_end_time
+next
